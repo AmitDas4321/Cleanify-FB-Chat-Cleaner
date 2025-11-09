@@ -1,5 +1,5 @@
 <p align="center">
-  <a herf="#">
+  <a herf="https://chromewebstore.google.com/detail/jkaafnmmjecejakfanneehifglpdpccp">
   <img src="screenshots/Cleanify Banner.png" alt="Cleanify Banner" width="800">
    </a>
 </p>
