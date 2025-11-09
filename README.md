@@ -1,5 +1,7 @@
 <p align="center">
+  <a herf="#">
   <img src="screenshots/Cleanify Banner.png" alt="Cleanify Banner" width="800">
+   </a>
 </p>
 
 <p align="center">
