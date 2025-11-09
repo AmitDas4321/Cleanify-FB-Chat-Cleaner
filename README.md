@@ -33,7 +33,7 @@ Get the latest version of **Cleanify** from the **Chrome Web Store** or **GitHub
   </a>
   &nbsp;&nbsp;
   <!-- GitHub Download Button -->
-  <a href="https://github.com/AmitDas4321/Cleanify-FB-Chat-Cleaner/releases/download/v1.0.0/Cleanify.crx">
+  <a href="https://github.com/AmitDas4321/Cleanify-FB-Chat-Cleaner/releases/download/v1.0.1/Cleanify.crx">
     <img src="https://img.shields.io/badge/⬇️_Download_CRX_File-006C9C?style=for-the-badge&logo=github&logoColor=white" alt="Download CRX File">
   </a>
 </p>
