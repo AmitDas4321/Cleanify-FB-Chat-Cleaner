@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/Cleanify Banner.webp" alt="Cleanify Banner" width="800">
+  <img src="screenshots/Cleanify Banner.png" alt="Cleanify Banner" width="800">
 </p>
 
 <p align="center">
