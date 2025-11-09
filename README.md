@@ -112,7 +112,6 @@ Read our full [Privacy Policy](https://github.com/AmitDas4321/Cleanify-FB-Chat-C
 
 Need help or want to suggest a feature?  
 📧 Email: [info@amitdas.site](mailto:info@amitdas.site)  
-💡 Submit feature ideas: [Feature Request Form](https://forms.gle/y644mkWyZjyzTex69)
 
 ---
 
