@@ -1,5 +1,7 @@
 <p align="center">
-  <a herf="https://chromewebstore.google.com/detail/jkaafnmmjecejakfanneehifglpdpccp"><img src="screenshots/Cleanify Banner.png" alt="Cleanify Banner" width="800"></a>
+  <a href="https://chromewebstore.google.com/detail/jkaafnmmjecejakfanneehifglpdpccp" target="_blank">
+  <img src="screenshots/Cleanify Banner.png" alt="Cleanify Banner" width="800">
+</a>
 </p>
 
 <p align="center">
