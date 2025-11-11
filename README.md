@@ -103,6 +103,8 @@ Read our full [Privacy Policy](https://github.com/AmitDas4321/Cleanify-FB-Chat-C
 | `storage` | Saves your cleanup preferences and progress locally. |
 | `tabs` | Identifies Messenger tabs for cleanup actions. |
 | `activeTab` | Runs cleanup scripts on the current Messenger or Marketplace tab. |
+| `identity` | Allows access to Chrome’s identity API to verify user license securely. |
+| `identity.email` | Used only to retrieve the user’s Chrome profile email for license validation. |
 
 **Host Permissions:**  
 `https://www.facebook.com/*`  
