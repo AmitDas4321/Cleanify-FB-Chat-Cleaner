@@ -115,5 +115,3 @@ For any privacy-related questions or concerns, please contact:
   <b>Made with ❤️ by <a href="https://amitdas.site">Amit Das</a></b><br>
   © 2025 Amit Das — All Rights Reserved
 </p>
-
-Would you like me to make a **short Chrome Web Store version** (2–3 sentences) for the “Privacy Practices” section too, matching this full policy?
