@@ -12,7 +12,7 @@
 
 <p align="center">
   <b>Remove All Messages, Marketplace Chats & More!</b><br>
-  Version 1.0.1 • Developed by <a href="https://amitdas.site">Amit Das</a>
+  Version 1.0.2 • Developed by <a href="https://amitdas.site">Amit Das</a>
 </p>
 
 ---
