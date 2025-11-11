@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/g1TtHpx/Untitled-design.png" alt="Cleanify Privacy Policy Banner" width="800">
+  <img src="https://raw.githubusercontent.com/AmitDas4321/AmitDas4321/refs/heads/main/img/Privacy%20Policy%20Banner.png" alt="Cleanify Privacy Policy Banner" width="800">
 </p>
 
 # Privacy Policy for Cleanify – FB Chat Cleaner
