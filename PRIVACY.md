@@ -45,24 +45,21 @@ All data remains **on your computer only** and is **not shared** with anyone.
 ## 4. Permissions Explanation
 
 ### a. `storage`
-
 Used to save user preferences (such as deletion settings and cleanup progress) locally to improve usability.
 
 ### b. `tabs`
-
 Used to identify active Messenger or Marketplace tabs and perform cleanup actions inside them.
 Cleanify does **not** read your browsing history or interact with unrelated websites.
 
 ### c. `activeTab`
-
 Used to access the currently open Facebook Messenger or Marketplace tab only when you manually initiate a cleanup process.
 
 ### d. `host_permissions`
-
 ```
+
 https://www.facebook.com/*
-```
 
+```
 This permission is required **solely** to enable chat cleanup within Facebook Messenger and Marketplace pages.
 Cleanify does **not** access or modify other websites.
 
@@ -72,6 +69,15 @@ Cleanify does **not** access or modify other websites.
 
 Cleanify does **not** use analytics tools, external APIs, or third-party servers.
 All features and verification processes operate locally inside your Chrome browser.
+
+### 5.1 `identity` and `identity.email`
+Cleanify uses the **Chrome Identity API** (`chrome.identity.getProfileUserInfo`) to access the user’s Chrome profile email address **only for license validation purposes**.
+
+* The email is used **solely** to verify your subscription or license and to help restore it across devices.
+* The email is **never stored permanently**, **never shared** with third parties, and **never used** for marketing or analytics.
+* If no email address is available (for example, if the user is not signed into Chrome), the extension automatically generates a random unique identifier (UUID) instead.
+
+This ensures secure license management while maintaining your privacy.
 
 ---
 
@@ -90,7 +96,7 @@ However, we encourage all users to:
 
 Users can delete all locally stored data anytime by:
 
-1. Removing the Cleanify extension from Chrome; and/or
+1. Removing the Cleanify extension from Chrome; and/or  
 2. Clearing browser storage via **chrome://settings/clearBrowserData**
 
 Cleanify will never leave behind any residual data once uninstalled.
@@ -106,7 +112,7 @@ We encourage users to review it periodically.
 
 ## 9. Contact
 
-For any privacy-related questions or concerns, please contact:
+For any privacy-related questions or concerns, please contact:  
 📧 **Email:** [info@amitdas.site](mailto:info@amitdas.site)
 
 ---
