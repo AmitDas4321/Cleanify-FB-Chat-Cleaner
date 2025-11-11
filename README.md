@@ -30,7 +30,7 @@ Get the latest version of **Cleanify** from the **Chrome Web Store** or **GitHub
 
 <p align="center">
   <!-- Chrome Web Store Button -->
-  <a href="https://xhamster.desi/4k/2" target="_blank">
+  <a href="https://chromewebstore.google.com/detail/jkaafnmmjecejakfanneehifglpdpccp" target="_blank">
     <img src="https://img.shields.io/badge/Install%20from%20Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Install from Chrome Web Store">
   </a>
   &nbsp;&nbsp;
